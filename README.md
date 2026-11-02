@@ -1,4 +1,4 @@
-# Microhome
+# ONIS
 
 A website where customers design their own off-grid modular home of under 25 m², see it in 3D, get an estimated price, and send you a quote request.
 
